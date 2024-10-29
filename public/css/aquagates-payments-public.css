@@ -1,0 +1,39 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#payment .payment_methods p.description {
+	margin : 0 0 20px 0;
+}
+
+#payment .payment_methods li .payment_box fieldset {
+	padding : 0;
+}
+
+#payment .payment_methods li .payment_box .wc-credit-card-form-card-number,
+#payment .payment_methods li .payment_box .wc-credit-card-form-card-expiry,
+#payment .payment_methods li .payment_box .wc-credit-card-form-card-cvc,
+#payment .payment_methods li .payment_box .wc-credit-card-form-card-username,
+#payment .payment_methods li .payment_box .wc-credit-card-form-card-shiharai-houhou-type {
+	font-size : 1.41575em;
+}
+
+#wc-aquagates_payments_creditcard-cc-form .woocommerce-validated input.input-text,
+#wc-aquagates_payments_creditcard-cc-form .woocommerce-invalid input.input-text {
+	box-shadow : none;
+}
+
+#idAPLILinkKessaiFormText {
+	color       : red;
+	font-weight : bold;
+	margin      : 20px 0 -20px 0;
+}
+
+#idAPLILinkKessaiButton {
+	width      : 100%;
+	max-width  : 600px;
+	margin     : 30px auto;
+	text-align : center;
+	font-size  : 22px;
+}

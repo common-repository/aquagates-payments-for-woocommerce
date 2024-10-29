@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wc-order-aquagates-payments-info li{
+	margin: 0;
+}
+
+.wc-order-aquagates-payments-info span.title{
+	display: block;
+	padding: 0 0 3px 0;
+}
+.wc-order-aquagates-payments-info span.text{
+	display: inline;
+	font-weight: bold;
+	padding: 0 0 0 15px;
+}
+.wc-order-aquagates-payments-info .button{
+	margin: 5px auto;
+}
